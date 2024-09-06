@@ -2,7 +2,7 @@
 **Version**: 1.21  
 **Purpose**: Technology, Exploration, and Creative Building  
 **Author**: [Bedwarr](https://modrinth.com/user/Bedwarr)  
-**Release Date**: To be confirmed
+**Release Date**: 05/009/2024
 
 ### ✅ What It Does
 **Techia** offers a comprehensive and balanced Minecraft experience that blends the best of technology, exploration, terrain enhancements, and creative building. Whether you're venturing into new biomes, automating your world, or designing intricate structures, this modpack provides the tools and enhancements you need to elevate your gameplay.
