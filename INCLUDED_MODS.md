@@ -1,7 +1,5 @@
 # Included Mods
 
-The **Techia** modpack for Minecraft version 1.21 includes a diverse range of mods that enhance various aspects of gameplay. Below is a categorized and alphabetically ordered overview of the included mods:
-
 ## Core Mods
 | Mod | Description |
 | --- | ----------- |
@@ -12,26 +10,10 @@ The **Techia** modpack for Minecraft version 1.21 includes a diverse range of mo
 ## Performance and Graphics
 | Mod | Description |
 | --- | ----------- |
+| [Concurrent Chunk Management Engine (C2ME)](https://modrinth.com/mod/c2me-fabric) | Optimizes chunk management and improves performance. |
 | [Enhanced Block Entities](https://modrinth.com/mod/ebe) | Enhances block entity performance. |
 | [Iris](https://modrinth.com/mod/iris) | Adds shader support for improved visuals. |
 | [Sodium](https://modrinth.com/mod/sodium) | Optimizes performance and enhances graphics. |
-
-## Technology and Automation
-| Mod | Description |
-| --- | ----------- |
-| [CC: Tweaked](https://modrinth.com/mod/cc-tweaked) | Adds advanced computer and automation capabilities. |
-| [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric) | Optimizes chunk management and performance. |
-| [Simple Copper Pipes](https://modrinth.com/mod/simple-copper-pipes) | Adds copper pipes for item transport and fluid mechanics. |
-| [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage) | Provides an intuitive storage system. |
-
-## Exploration and World Enhancement
-| Mod | Description |
-| --- | ----------- |
-| [Additional Structures](https://modrinth.com/mod/additional-structures) | Introduces extra structures and dungeons. |
-| [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty) | Adds new biomes and environmental features. |
-| [Deeper and Darker](https://modrinth.com/mod/deeper-and-darker) | Expands underground exploration. |
-| [Falling Leaves](https://modrinth.com/mod/fallingleaves) | Enhances visual aesthetics of leaves and foliage. |
-| [Tectonic](https://modrinth.com/mod/tectonic) | Adds new terrain features and geological elements. |
 
 ## Building and Decoration
 | Mod | Description |
@@ -48,7 +30,23 @@ The **Techia** modpack for Minecraft version 1.21 includes a diverse range of mo
 | [Macaw's Windows](https://modrinth.com/mod/macaws-windows) | Provides new window designs. |
 | [More Chest Variants](https://modrinth.com/mod/more-chests-variants) | Expands chest options with new types. |
 | [MrCrayfish's Furniture Mod: Refurbished](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture) | Refurbished version of MrCrayfish's furniture mod. |
+| [Simple Copper Pipes](https://modrinth.com/mod/simple-copper-pipes) | Adds a piping system for resource transportation. |
 | [Visual Workbench](https://modrinth.com/mod/visual-workbench) | Improves crafting and building workflows. |
+
+## Exploration and World Enhancement
+| Mod | Description |
+| --- | ----------- |
+| [Additional Structures](https://modrinth.com/mod/additional-structures) | Introduces extra structures and dungeons. |
+| [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty) | Adds new biomes and environmental features. |
+| [Deeper and Darker](https://modrinth.com/mod/deeper-and-darker) | Expands underground exploration. |
+| [Falling Leaves](https://modrinth.com/mod/fallingleaves) | Enhances visual aesthetics of leaves and foliage. |
+| [Tectonic](https://modrinth.com/mod/tectonic) | Adds new terrain features and geological elements. |
+
+## Technology and Automation
+| Mod | Description |
+| --- | ----------- |
+| [CC: Tweaked](https://modrinth.com/mod/cc-tweaked) | Adds advanced computer and automation capabilities. |
+| [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage) | Provides an intuitive storage system. |
 
 ## Quality of Life
 | Mod | Description |
@@ -60,16 +58,17 @@ The **Techia** modpack for Minecraft version 1.21 includes a diverse range of mo
 | [Jade](https://modrinth.com/mod/jade) | Adds a map viewer with a minimap feature. |
 | [Just Enough Items (JEI)](https://modrinth.com/mod/jei) | Provides an item and recipe viewer. |
 | [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) | Improves mouse functionality for inventory management. |
-| [Vein Digging](https://modrinth.com/mod/veindigging) | Adds vein mining functionality, allowing faster resource gathering. |
+| [SwingThrough](https://modrinth.com/mod/swingthrough) | Allows attacks to pass through mobs, enabling you to hit mobs behind others. |
+| [Vein Digging](https://modrinth.com/mod/veindigging) | Allows mining of entire veins with one tool use. |
 | [Zoomify](https://modrinth.com/mod/zoomify) | Adds zooming capabilities for better exploration. |
 
-## Library Mods
+## Library and Utility Mods
 | Mod | Description |
 | --- | ----------- |
 | [Balm](https://modrinth.com/mod/balm) | A library mod for various features. |
 | [Cloth Config API](https://modrinth.com/mod/cloth-config) | Configures mod settings through a user-friendly interface. |
 | [Framework](https://curseforge.com/minecraft/mc-mods/framework) | Provides base functionality for various mods. |
-| [FrozenLib](https://modrinth.com/mod/frozenlib) | Provides shared code used by multiple mods. |
+| [FrozenLib](https://modrinth.com/mod/frozenlib) | A utility library for other mods. |
 | [GeckoLib](https://modrinth.com/mod/geckolib) | Provides advanced animation capabilities. |
 | [Resourceful Config](https://modrinth.com/mod/resourceful-config) | Manages mod configurations efficiently. |
 | [SuperMartijn642's Config Lib](https://modrinth.com/mod/supermartijn642s-config-lib) | A library for configuring mods. |
