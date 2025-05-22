@@ -2,7 +2,7 @@
 **Version**: 1.21, 1.21.5  
 **Purpose**: Technology, Exploration, and Creative Building  
 **Author**: [Bedwarr](https://modrinth.com/user/Bedwarr)  
-**Release Date**: 05/09/2024
+**Release Date**: 05/09/2024 
 **Where To Download**: [Modrinth](https://modrinth.com/modpack/techia)
 
 ### ✅ What It Does
